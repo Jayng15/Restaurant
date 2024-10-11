@@ -1,0 +1,14 @@
+c:\Users\jayng\Downloads\Huy\Restaurant\bin\Debug\net8.0\Restaurant.exe
+C:\Users\jayng\Downloads\Huy\Restaurant\bin\Debug\net8.0\Restaurant.deps.json
+C:\Users\jayng\Downloads\Huy\Restaurant\bin\Debug\net8.0\Restaurant.runtimeconfig.json
+c:\Users\jayng\Downloads\Huy\Restaurant\bin\Debug\net8.0\Restaurant.dll
+c:\Users\jayng\Downloads\Huy\Restaurant\bin\Debug\net8.0\Restaurant.pdb
+c:\Users\jayng\Downloads\Huy\Restaurant\obj\Debug\net8.0\Restaurant.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\jayng\Downloads\Huy\Restaurant\obj\Debug\net8.0\Restaurant.AssemblyInfoInputs.cache
+c:\Users\jayng\Downloads\Huy\Restaurant\obj\Debug\net8.0\Restaurant.AssemblyInfo.cs
+c:\Users\jayng\Downloads\Huy\Restaurant\obj\Debug\net8.0\Restaurant.csproj.CoreCompileInputs.cache
+c:\Users\jayng\Downloads\Huy\Restaurant\obj\Debug\net8.0\Restaurant.dll
+c:\Users\jayng\Downloads\Huy\Restaurant\obj\Debug\net8.0\refint\Restaurant.dll
+c:\Users\jayng\Downloads\Huy\Restaurant\obj\Debug\net8.0\Restaurant.pdb
+C:\Users\jayng\Downloads\Huy\Restaurant\obj\Debug\net8.0\Restaurant.genruntimeconfig.cache
+C:\Users\jayng\Downloads\Huy\Restaurant\obj\Debug\net8.0\ref\Restaurant.dll
