@@ -1,5 +1,5 @@
 namespace ConsoleApp1;
-public class User
+public abstract class User
 {
     // Encapsulation dữ liệu của đối tượng an toàn khỏi sự truy cập và thay đổi từ bên ngoài
     public int Id { get; protected set; }

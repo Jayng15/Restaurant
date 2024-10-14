@@ -5,11 +5,17 @@ public class Order
     public List<Food> Items { get; private set; }
     public string Status { get; private set; }
 
+    public User Customer { get; private set; }
+
     public Order(int id)
     {
         Id = id;
         Items = new List<Food>();
         Status = "Pending";
+    }
+
+    public void AssignCustomer(User customer) {
+        Customer = customer;
     }
 
     public void AddItem(Food item)

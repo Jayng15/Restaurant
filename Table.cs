@@ -5,6 +5,8 @@ public class Table
     public int Seats { get; private set; }
     public string Status { get; private set; }
 
+    public Customer Customer { get; private set; }
+
     public Table(int number, int seats, string status)
     {
         Number = number;
@@ -12,10 +14,11 @@ public class Table
         Status = status;
     }
 
-    public void BookTable(Customer customer)
+
+    public void BookTable(User customer)
     {
+        Customer = (Customer)customer;
         Status = "Occupied";
         Console.WriteLine($"Customer{customer.Name} has reserved table {Number}.");
-
     }
 }
