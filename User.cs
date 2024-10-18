@@ -19,9 +19,9 @@ public abstract class User
     public virtual void DisplayInfo()
     {
         Console.WriteLine($"ID: {Id}");
-        Console.WriteLine($"Tên: {Name}");
+        Console.WriteLine($"Name: {Name}");
         Console.WriteLine($"Email: {Email}");
-        Console.WriteLine($"Số điện thoại: {Phone}");
+        Console.WriteLine($"Phone number: {Phone}");
     }
     // Polymorphism
 
