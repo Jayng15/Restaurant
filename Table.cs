@@ -18,7 +18,7 @@ public class Table
     public void BookTable(User customer)
     {
         Customer = (Customer)customer;
-        Status = "Occupied";
+        Status = "Booked";
         Console.WriteLine($"Customer{customer.Name} has reserved table {Number}.");
     }
 }
